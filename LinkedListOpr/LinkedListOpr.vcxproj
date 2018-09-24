@@ -118,6 +118,7 @@
     <ClCompile Include="BST.cpp" />
     <ClCompile Include="b_search.cpp" />
     <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Map_Logic.cpp" />
     <ClCompile Include="q_sort.cpp" />
     <ClCompile Include="RemoveDuplicates.cpp" />
     <ClCompile Include="Source.cpp" />
